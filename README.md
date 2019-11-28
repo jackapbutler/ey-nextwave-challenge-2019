@@ -1,7 +1,11 @@
 # EY NextWave Challenge
 Partial Trajectory Prediction model for civilian movements around city centre area.
 
-The dataset featured anonymized GPS information for a set of people in the state of Georgia during October 2018 in the form of partial trajectories. Our task was to use this data to predict if the person would have a destination inside the “city centre” (x,y) boundary. All GPS trackers reset every 24 hours so each day of data was completely independent and untraceable. 
+- The dataset featured anonymized GPS information for a set of people in the state of Georgia during October 2018 in the form of partial trajectories. 
+
+- Our task was to use this data to predict if the person would have a destination inside the “city centre” (x,y) boundary. 
+
+- All GPS trackers reset every 24 hours so each day of data was completely independent and untraceable to previous recordings. 
 
 # Method
 1.	I researched papers previous methods used to tackle this topic. 
