@@ -22,4 +22,4 @@ Partial Trajectory Prediction model for civilian movements around city centre ar
 
 # Visualisation of the Problem
 
-![Image of framework](https://github.com/jackapbutler/EY-NextWave-Challenge/blob/master/ey_nextwave.png)
+![Image of framework](https://github.com/jackapbutler/EY-NextWave-Challenge/blob/master/ey_nextwave.PNG)
