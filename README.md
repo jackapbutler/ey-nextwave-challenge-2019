@@ -19,3 +19,7 @@ Partial Trajectory Prediction model for civilian movements around city centre ar
 5.	I explored a variety of numerical values for ‘K’ with different distance metrics and training data sampling techniques.
 
 6.	Possible implementations of my solution include targeted advertising, urban planning, rideshare services and various augmented reality uses.
+
+# Visualisation of the Problem
+
+![Image of framework](https://github.com/jackapbutler/EY-NextWave-Challenge/blob/master/ey_nextwave.png)
