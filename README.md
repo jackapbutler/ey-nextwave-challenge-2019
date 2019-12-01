@@ -7,6 +7,8 @@ Partial Trajectory Prediction model for civilian movements around city centre ar
 
 - All GPS trackers reset every 24 hours so each day of data was completely independent and untraceable to previous recordings. 
 
+- My final model placed me in the top 10 in UK & Ireland and top 250 globally with a F1 score of 0.869 and Accuracy of 0.95.
+
 # Visualisation of the Problem
 
 ![Image of framework](https://github.com/jackapbutler/EY-NextWave-Challenge/blob/master/ey_nextwave.PNG)
