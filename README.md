@@ -14,14 +14,14 @@ Partial Trajectory Prediction model for civilian movements around city centre ar
 ![Image of framework](https://github.com/jackapbutler/EY-NextWave-Challenge/blob/master/ey_nextwave.PNG)
 
 # Method
-1.	I researched papers previous methods used to tackle this topic. 
+1.	I researched previous publications that tackled similar topics. 
 
-2.	I concluded that people at similar positions tend to be going to the same destination (IBM Taxi Destination problem).
+2.	I concluded that people who start at similar positions tend to be going to the same final destination (IBM Taxi Destination paper).
 
-3.	I developed a KNN algorithm on (x,y) coordinate data as it was a very effective method that required the least amount of time. 
+3.	I developed a KNN algorithm on (x,y) coordinate data as it was a very effective method that required the least amount of time to implement and tweak. 
 
-4.	I eliminated variables that were not relevant and only served to overcomplicated the model.
+4.	I eliminated any variables that were not relevant and only served to overcomplicated the data.
 
-5.	I explored a variety of numerical values for ‘K’ with different distance metrics and training data sampling techniques.
+5.	I explored a variety of numerical values for ‘K’ while also varying the distance metric and training data sampling techniques.
 
-6.	Possible implementations of my solution include targeted advertising, urban planning and rideshare services.
+6.	Possible real world uses of my solution include targeted advertising, urban planning and rideshare services.
