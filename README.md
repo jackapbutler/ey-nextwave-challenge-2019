@@ -1,5 +1,5 @@
 # EY NextWave Challenge
-Partial Trajectory Prediction model for civilian movements around city centre area.
+Partial Trajectory Prediction model for civilian movements around a city centre area.
 
 - The dataset featured anonymized GPS information for a set of people in the state of Georgia during October 2018 in the form of partial trajectories. 
 
